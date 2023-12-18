@@ -1,0 +1,15 @@
+{
+  "name": "deepup",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xolving/deepup-vim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xolving/deepup-vim/issues"
+  },
+  "homepage": "https://github.com/xolving/deepup-vim#readme"
+}
